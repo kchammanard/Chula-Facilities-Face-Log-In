@@ -10,7 +10,7 @@ from collections.abc import MutableMapping
 from pymongo.mongo_client import MongoClient
 import hashlib
 
-cluster = "mongodb+srv://kchammanard:passworduwu@facecluster.dvoeo0n.mongodb.net/facedb?retryWrites=true&w=majority"
+cluster = ""
 client = MongoClient(cluster)
 
 db = client.facedb
