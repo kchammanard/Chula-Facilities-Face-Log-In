@@ -1,4 +1,4 @@
-# Face Recognition and Access Control System
+# Face Recognition and Access Control Prototype for Chulalongkorn University
 
 This project implements a real-time face recognition and access control system using OpenCV, face_recognition, and MongoDB. The system captures a live video stream, detects and encodes faces, and checks access permissions based on the recognized faces. It integrates with a MongoDB database to retrieve user and facility details and allows for checking access permissions dynamically.
 
